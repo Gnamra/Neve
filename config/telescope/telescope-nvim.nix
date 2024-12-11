@@ -43,9 +43,9 @@
           colorscheme = {
             enable_preview = true;
           };
-           find_files = {
-             theme = "slate";
-           };
+          # find_files = {
+          #   theme = "slate";
+          # };
         };
       };
       keymaps = {
