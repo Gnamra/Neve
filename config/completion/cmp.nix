@@ -70,7 +70,6 @@
               name = "buffer";
               keyword_length = 5;
             }
-            { name = "copilot"; }
             {
               name = "path";
               keyword_length = 3;
